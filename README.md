@@ -1,4 +1,6 @@
 # Banking System - Java Swing Project
+designed by Tendo Hassan a member of the Java class 2025
+Reg no 21/bcc/bu/r/0034
 
 ## Description
 The Banking System is a Java Swing application that simulates basic banking operations. It provides a user-friendly interface for managing accounts, transactions, and other essential banking functions.
